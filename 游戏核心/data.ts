@@ -225,7 +225,6 @@ export const CRAFTS: CraftDef[] = [
 export type RealmDef = {
   id: string;
   name: string;
-  desc: string;
   duration: number;
   unlockLayer: number;
   jade: [number, number];
